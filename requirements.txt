@@ -1,0 +1,7 @@
+discord.py==1.7.3
+PyYAML==6.0
+
+PyNaCl==1.4.0 
+cffi==1.15.0
+pycparser==2.21
+six==1.16.0
